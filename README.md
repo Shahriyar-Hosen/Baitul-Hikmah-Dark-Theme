@@ -25,19 +25,19 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ### Baitul-Hikmah-Professional
 
-![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Professional.png)
+![Baitul-Hikmah-Professional](https://github.com/user-attachments/assets/eebe00da-34cd-4fd8-a720-6c9c91ccd7eb)
 
 ### Baitul-Hikmah-Ocean
 
-![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Ocean.png)
+![Baitul-Hikmah-Ocean](https://github.com/user-attachments/assets/514a65eb-e9bd-4ea3-b303-e4b3629dec1c)
 
 ### Baitul-Hikmah-Palenight
 
-![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Palenight.png)
+![Baitul-Hikmah-Palenight](https://github.com/user-attachments/assets/a934e09c-ecd3-4054-8841-8710c5f5e54d)
 
 ### Baitul-Hikmah-Lighter
 
-![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Lighter.png)
+![Baitul-Hikmah-Lighter](https://github.com/user-attachments/assets/b2234e00-cfec-4ae5-8573-3a6ae806ff5b)
 
 ## Recommended Settings
 

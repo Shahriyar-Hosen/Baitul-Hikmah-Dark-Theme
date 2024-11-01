@@ -1,5 +1,4 @@
 # Baitul Hikmah Dark Theme
-Baitul Hikmah Dark Theme Community 
 
 **Baitul Hikmah Dark Theme** is a visually appealing, dark-themed color palette crafted to enhance focus and reduce eye strain. Inspired by the knowledge and mystery of the "House of Wisdom" (Baitul Hikmah), this theme is perfect for developers who spend extended hours coding. Enjoy a blend of soothing, high-contrast colors that emphasize readability, all while giving your editor a stylish, modern look.
 
@@ -18,6 +17,24 @@ Baitul Hikmah Dark Theme Community
 4. Click **Install**.
 5. After installation, press `Ctrl+K` `Ctrl+T` (or `Cmd+K` `Cmd+T` on Mac) and select **Baitul Hikmah Dark Theme**.
 
+## Examples
+
+### Baitul-Hikmah-Professional
+
+![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Professional.png)
+
+### Baitul-Hikmah-Ocean
+
+![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Ocean.png)
+
+### Baitul-Hikmah-Palenight
+
+![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Palenight.png)
+
+### Baitul-Hikmah-Lighter
+
+![Baitul-Hikmah-Professional](/images/Baitul-Hikmah-Lighter.png)
+
 ## Recommended Settings
 
 To get the best experience, you might consider these Visual Studio Code settings:
@@ -34,7 +51,7 @@ To get the best experience, you might consider these Visual Studio Code settings
 
 ## Feedback and Contribution
 
-If you have suggestions for improvements or encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/your-repo-link) or contribute directly. Your feedback is invaluable in making the **Baitul Hikmah Dark Theme** a great coding companion.
+If you have suggestions for improvements or encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/Shahriyar-Hosen/Baitul-Hikmah-Dark-Theme) or contribute directly. Your feedback is invaluable in making the **Baitul Hikmah Dark Theme** a great coding companion.
 
 ---
 

@@ -9,6 +9,10 @@
 - **Enhanced Syntax Highlighting**: Colors are carefully chosen for intuitive code structuring, whether you work with JavaScript, Python, HTML, CSS, or other languages.
 - **Custom Highlighting for Popular Frameworks**: Optimized for popular frameworks and libraries, ensuring that tags, attributes, and keywords are easily identifiable.
 
+## Getting started
+
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ShahriyarHosen.baitul-hikmah-dark).
+
 ## Installation
 
 1. **Open Visual Studio Code.**

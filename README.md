@@ -31,6 +31,10 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ![Baitul-Hikmah-Ocean](https://github.com/user-attachments/assets/514a65eb-e9bd-4ea3-b303-e4b3629dec1c)
 
+### Baitul-Hikmah-Darker
+
+![Baitul-Hikmah-Darker](https://github.com/user-attachments/assets/d9a91ba2-eabc-47f3-a99a-e3fe44d22211)
+
 ### Baitul-Hikmah-Palenight
 
 ![Baitul-Hikmah-Palenight](https://github.com/user-attachments/assets/a934e09c-ecd3-4054-8841-8710c5f5e54d)

@@ -39,10 +39,6 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ![Baitul-Hikmah-Palenight](https://github.com/user-attachments/assets/a934e09c-ecd3-4054-8841-8710c5f5e54d)
 
-### Baitul-Hikmah-Lighter
-
-![Baitul-Hikmah-Lighter](https://github.com/user-attachments/assets/b2234e00-cfec-4ae5-8573-3a6ae806ff5b)
-
 ## Recommended Settings
 
 To get the best experience, you might consider these Visual Studio Code settings:
